@@ -1,14 +1,4 @@
 User-agent: *
 Disallow: /js/
 
-adsasd
-asdasd
-
-
-asdasd
-
-dsadadas
-
-Ei go na i az da editna neshto
-
-Nqma Bu
+aide nova redakciq
