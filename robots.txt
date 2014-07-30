@@ -1,2 +1,4 @@
 User-agent: *
 Disallow: /
+
+Evala be Dido 6te stane 4ovek ot teb!
