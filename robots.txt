@@ -1,5 +1,0 @@
-User-agent: *
-Disallow: /js/
-
-Evala be Dido 6te stane 4ovek ot teb! 
-edited from Nikolay

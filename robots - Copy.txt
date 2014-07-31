@@ -1,8 +1,0 @@
-
-ssss
-
-User-agent: *
-Disallow: /js/
-
-aide nova redakciq  sdd
-
